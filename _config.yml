@@ -1,0 +1,28 @@
+name: RickFueyo
+favicon: null
+layout_spectrum: 0.37117696227505803
+typography_spectrum: 0.6537958392873406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8691061208955944
+  lightness: 0.15245872759260237
+  saturation: 0.9714381748344749
+  rhythmicContrast: 0.08424870483577251
+purpose: []
